@@ -9,7 +9,7 @@
         "skipLibCheck": true,
         "forceConsistentCasingInFileNames": true,
         "isolatedModules": true,
-        "jsx": "react-jsx",
+        "jsx": "react",
         "moduleResolution": "Node",
         "noEmit": true,
         "noFallthroughCasesInSwitch": true,
